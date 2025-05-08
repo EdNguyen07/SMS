@@ -1,5 +1,5 @@
- private static final String accountSid  = 'AC8eb7a0f2bbb7e80e7d9cce50113134ea';
-    private static final String authToken  = '97a8c72c860498d9a4cce5871fefb6d2';
+ private static final String accountSid  = 'sdasd';
+    private static final String authToken  = 'adad';
     private static final String fromPhone  = '+13254425755'; // Your Twilio number
 //private static final String fromPhone  = '+16825519053'; // Your Twilio number
 String toPhone = '+12148437289';  // Recipient's phone number
